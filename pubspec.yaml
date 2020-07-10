@@ -1,0 +1,7 @@
+name: generic_json_annotation
+description: generic serialize
+version: 0.0.1
+homepage: https://github.com/wenjunxiao/generic_json_annotation.dart
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
